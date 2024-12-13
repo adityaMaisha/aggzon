@@ -20,7 +20,7 @@
 
 	<!-- Title  -->
 
-	<title>Aggzon</title>
+	<title>Aggzon Main</title>
 
 
 
@@ -190,7 +190,7 @@
 
 						<li class="nav-item">
 
-							<a class="nav-link smooth-anchor" href="javascript::">Contact</a>
+							<a class="nav-link " href="contact.php">Contact</a>
 
 						</li>
 
