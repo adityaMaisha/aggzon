@@ -20,7 +20,7 @@
 
 	<!-- Title  -->
 
-	<title>Aggzon Main</title>
+	<title>Aggzon </title>
 
 
 

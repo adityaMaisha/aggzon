@@ -589,6 +589,11 @@ main {
   padding: 0;
   max-width: 1170px;
 }
+
+.contain {
+  padding: 0;
+  max-width: 1000px;
+}
 .container.header {
   max-width: 1140px;
 }
@@ -620,6 +625,10 @@ main {
   .vh-85 {
     height: 100%;
   }
+}
+
+.custom-width{
+  max-width: 1000px;
 }
 
 .vh-90 {

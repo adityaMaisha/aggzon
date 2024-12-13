@@ -147,6 +147,16 @@
 										<a class="nav-link" href="javascript:;">Support</a>
 
 									</li>
+									<li class="nav-item">
+
+										<a class="nav-link" href="shipping&delivery.php">Shipping &amp; Delivery  </a>
+
+									</li>
+									<li class="nav-item">
+
+										<a class="nav-link" href="refund&canceliation.php">Refund  &amp; Cancellation Policy </a>
+
+									</li>
 
 									<li class="nav-item">
 

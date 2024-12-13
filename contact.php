@@ -28,8 +28,8 @@
 				<div class="row justify-content-between align-items-center">
 					<div class="col-12 col-md-5">
 						<div class="contact-info">
-							<h3 class="mt-0">Schedule a call with us to see if we can help</h3>
-							<p>Whether you’re looking to start a new project or simply want to chat, feel free to reach out to us!</p>
+							<h3 class="mt-0">Connect with Our Team</h3>
+							<p>Reach out to us for personalized support, expert guidance, and solutions tailored to meet your unique needs and goals</p>
 
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item d-flex align-items-center">
@@ -39,7 +39,7 @@
 											<span class="contact-icon material-symbols-outlined">call</span>
 										</div>
 									</div>
-									<span><a href="tel:+18904735102">+1.890.473.5102</a></span>
+									<span><a href="tel:+18904735102">+12098213</a></span>
 								</li>
 
 								<li class="list-group-item d-flex align-items-center">
@@ -49,7 +49,7 @@
 											<span class="contact-icon material-symbols-outlined">mark_email_unread</span>
 										</div>
 									</div>
-									<span><a href="mailto:hello@yourmail.com">hello@yourmail.com</a></span>
+									<span><a href="mailto:abc@abc.com">abc@abc.com</a></span>
 								</li>
 
 								<li class="list-group-item d-flex align-items-center">
@@ -59,7 +59,7 @@
 											<span class="contact-icon material-symbols-outlined">location_on</span>
 										</div>
 									</div>
-									<span>912 Park Ave, Ketchikan, Alaska 99901, USA</span>
+									<span>NHPC Chowk Faridabad</span>
 								</li>
 							</ul>
 						</div>
@@ -93,7 +93,7 @@
 
 		<!--====== Map Area Start ======-->
 		<section class="map-area p-0">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.596666220624!2d-0.16124461362595294!3d51.46556134684942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487605a25375dfb7%3A0xe0d9fa09dcf932a8!2s15%20Theatre%20St%2C%20Battersea%2C%20London%20SW11%205ND%2C%20UK!5e0!3m2!1sen!2sbd!4v1567427969685!5m2!1sen!2sbd" width="100" height="100" style="border:0;" allowfullscreen=""></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.6871629733378!2d77.30357157480161!3d28.458845391948035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d02339e9d5589%3A0x7591a5b161c6c05d!2sMaisha%20Infotech%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1734087809200!5m2!1sen!2sin" width="100" height="100" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</section>
 		<!--====== Map Area End ======-->
 
